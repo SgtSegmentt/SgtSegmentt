@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## I'm @SgtSegment alt account
+I mainly use this for when I need Github in school and can't use my phone (because of 2FA)
+My actual account is @SgtSegment
 <!--
 **SgtSegmentt/SgtSegmentt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
